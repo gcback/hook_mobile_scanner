@@ -1,6 +1,6 @@
 # hook_mobile_scanner
 
-A new Flutter project.
+## 플러터 mobile_scanner 패키지의 hook wrapper 입니다.
 
 ## Getting Started
 
