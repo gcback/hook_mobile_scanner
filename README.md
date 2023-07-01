@@ -1,6 +1,7 @@
 # hook_mobile_scanner
 
 ## 플러터 mobile_scanner 패키지의 hook wrapper 입니다.
+- https://pub.dev/packages/mobile_scanner
 
 ## Getting Started
 
