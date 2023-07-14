@@ -1,17 +1,5 @@
 # hook_mobile_scanner
 
-## 플러터 mobile_scanner 패키지의 hook wrapper 입니다.
+## 플러터 mobile_scanner 패키지의 hooks wrapper 입니다.
 - https://pub.dev/packages/mobile_scanner
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
